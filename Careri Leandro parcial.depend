@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1653180151 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653316124 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\menu.h
+	"notebook.h"
+
+1652272171 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\fecha.h
+
+1653259056 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\validaciones.h
+
+1653177633 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\marca.h
+
+1653178279 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\tipo.h
+
+1653318447 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\notebook.h
+	"cliente.h"
+
+1653178642 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\servicio.h
+
+1653308421 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\trabajo.h
+
+1653177827 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653318371 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"validaciones.h"
+
+1653317659 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"cliente.h"
+	"trabajo.h"
+
+1653178588 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653178287 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653308424 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653258964 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653318422 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fecha.h"
+	"validaciones.h"
+	"marca.h"
+	"tipo.h"
+	"notebook.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1653309571 source:c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"string.h"
+
+1653309546 c:\users\leand\onedrive\escritorio\proyectos programacion 1\careri leandro parcial\cliente.h
+
